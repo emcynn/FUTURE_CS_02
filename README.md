@@ -1,4 +1,4 @@
-# Task 02: Phishing Analysis &amp; Risk Evaluation Project
+# Task 02: Phishing Email Detection & Awareness System
 
 ## 📌 Project Overview
 This repository contains a comprehensive analysis of various email threats, ranging from highly sophisticated phishing to multi-stage social engineering. The goal of this project is to strengthen organizational defenses by uncovering attacker infrastructure and providing actionable mitigation strategies for non-technical users.
